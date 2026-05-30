@@ -26,7 +26,7 @@ cd src && python app.py
 
 ## Tasks Completed
 
-| Task | Description | Points |
+| Task | Description | Pointss |
 |------|-------------|--------|
 | Task 1 | QR Code Decoding | **15 / 15** |
 | Task 2 | Student Info Extraction (OCR) | **15 / 15** |
